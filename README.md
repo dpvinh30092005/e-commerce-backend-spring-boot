@@ -1,2 +1,4 @@
-# e-commerce-backend-spring-boot
-Backend for E-Commerce app with MVC, JWT, and Stripe integration. Built for CV portfolio.
+# 🛒 E-Commerce Backend Project
+
+## 📌 Mô tả dự án
+Backend cho ứng dụng **e-commerce** được xây dựng bằng **Java Spring Boot**.
